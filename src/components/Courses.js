@@ -5,9 +5,13 @@ const Courses = ({courseList}) => {
     return (
         <div>
              <h2>Courses List:</h2>
-            {courseList.map(c=>{
-                return <CourseItem  course = {c}/>
-            })}
+             <ul>
+                {courseList.map(c=>{
+                    return <li><CourseItem   course = {c}/> </li>
+                })}
+
+             </ul>
+            
             
         </div>
     );

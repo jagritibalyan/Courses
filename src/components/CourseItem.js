@@ -5,7 +5,7 @@ const CourseItem = ({course}) => {
     return (
         <Link to={
             {
-                pathname: "/courses/:id",
+                pathname: `/courses/${course.id}`,
                 state: {
                     course: course,
                 },

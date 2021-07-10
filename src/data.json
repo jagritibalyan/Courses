@@ -3,26 +3,26 @@
     "name": "Aptitude",
     "instructor": "Jagriti",
     "fees": 500,
-    "duration": "2 Months"
+    "duration": "1 Months"
   },
   {
     "id": 2,
     "name": "Java",
-    "instructor": "Jagriti",
-    "fees": 500,
-    "duration": "2 Months"
+    "instructor": "Mayank",
+    "fees": 5000,
+    "duration": "3 Months"
   },
   {
     "id": 3,
     "name": "React",
-    "instructor": "Jagriti",
-    "fees": 500,
+    "instructor": "Aakash",
+    "fees": 3000,
     "duration": "2 Months"
   },
   {
     "id": 4,
     "name": "Python",
-    "instructor": "Jagriti",
-    "fees": 500,
-    "duration": "2 Months"
+    "instructor": "Nidhi",
+    "fees": 4000,
+    "duration": "3 Months"
   }]
